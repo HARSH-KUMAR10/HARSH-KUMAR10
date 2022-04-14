@@ -29,7 +29,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 [![devpost](https://badges.devpost-shields.com/get-badge?name=*&id=project-id&type=big-logo&style=flat-square)](https://devpost.com/harshkumar093?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
 
-## 🛠 Tech Skills
+# 🛠 Tech Skills
 #### **Development**
 [![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
 [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
@@ -61,9 +61,9 @@ I also create smart and interactive applications using Artificial Intelligence.
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 
 
-## Eperience
+# Eperience
 
-## Internship : Arctic Devs (Full Stack Web Developer Intern)
+### Internship : Arctic Devs (Full Stack Web Developer Intern)
 * Date : Jan 2022 - Apr 2022
 
 
@@ -86,7 +86,7 @@ I also create smart and interactive applications using Artificial Intelligence.
   and many more
 [link](https://www.facebook.com/thekarmafoundation/posts/right-to-cleanliness-with-karma-foundation-is-fortunate-to-introduce-you-to-the-/1815738791936415/)
 
-## Projects
+# Projects
 
 <div>
   <h3>Energy Share : Decentralized Application for sharing energy units</h3>
