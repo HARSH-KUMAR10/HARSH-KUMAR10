@@ -1,5 +1,5 @@
 
-<div style="display:flex;justify-content:space-around"><img src="https://w0.peakpx.com/wallpaper/19/380/HD-wallpaper-code-once-code-developer-life-simple-tip.jpg"/></div>
+<img src="https://w0.peakpx.com/wallpaper/19/380/HD-wallpaper-code-once-code-developer-life-simple-tip.jpg"/>
 
 ## Contact Me
 
