@@ -58,7 +58,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 [![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 [![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://www.heroku.com)
 [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/in/webapps/mpp/home?kid=p39982204948)
-[![rprogramming](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.tutorialspoint.com/r/index.htm)
+
 
 #### **Systems**
 [![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android#:~:text=on%20Android%20devices.-,Overview,an%20understanding%20of%20JavaScript%20fundamentals.)
