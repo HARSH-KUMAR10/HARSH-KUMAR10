@@ -69,8 +69,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 
 ## Projects
 
-<div style="display:flex;flex-direction:row;justify-content:space-around;flex-wrap:warp;">
-<div style="display:inline-block;width:30%;border:2px gray solid">
+<div>
   <h3>Energy Share : Decentralized Application for sharing energy units</h3>
   A market place to buy and sell energy units<br/>
     <ul>
@@ -80,16 +79,8 @@ I also create smart and interactive applications using Artificial Intelligence.
       <li>Apart from saving all the data at a single database in Mongo, we will also save all the data in a decentralized distributed database using GunJS</li>
     </ul>
   
-</div>
-    
-<div style="display:inline-block;width:30%;border:2px gray solid">
-  <h3>Energy Share : Decentralized Application for sharing energy units</h3>
-  A market place to buy and sell energy units<br/>
-    <ul>
-      <li>Seller : Will be able to create his holding which will be sent to admin for a check</li>
-      <li>Admin : Approve or discard holding requests and check all the transactions happening</li>
-      <li>Market : Will be able to see all the holdings posted by other users which are approved by the admin and buy it also.</li>
-      <li>Apart from saving all the data at a single database in Mongo, we will also save all the data in a decentralized distributed database using GunJS</li>
-    </ul>
-</div>
+  
+  [front-end code](https://github.com/HARSH-KUMAR10/dapp-energy-client)
+  [back-end code](https://github.com/HARSH-KUMAR10/dapp-energy-server)
+  [live website](https://energy-share-dapps.netlify.app/)
 </div>
