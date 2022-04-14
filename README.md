@@ -29,12 +29,12 @@ I also create smart and interactive applications using Artificial Intelligence.
 ### **Web**
 **Client:** ReactJS, Bootstrap.
   |  **Server:** Node, Express
-**  |  Database:** MongoDB
+  |  **Database:** MongoDB
 
 ### **Mobile**
 **Client:** React-Native, Andriod Studio
-**  |  Server:** Node, Express
-**  |  Database:** MongoDB
+  |  **Server:** Node, Express
+  |  **Database:** MongoDB
 
 ### **Machine Learning & Artificial Intelligence**
 **Language:** Python, Node
