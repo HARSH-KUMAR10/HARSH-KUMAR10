@@ -2,7 +2,7 @@
 ## Contact Me
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshkumar093@gmail.com)
-
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/kSncXUxY48)
 # Hi, 👋 I'm Harsh Kumar!
 #### Mobile and Web Developer, Big Data Analyst & Machine Learning and Artificial Intelligence Developer.
 
