@@ -80,7 +80,7 @@ I also create smart and interactive applications using Artificial Intelligence.
     </ul>
   
   
-  [front-end code](https://github.com/HARSH-KUMAR10/dapp-energy-client)
-  [back-end code](https://github.com/HARSH-KUMAR10/dapp-energy-server)
-  [live website](https://energy-share-dapps.netlify.app/)
+  [front-end-code](https://github.com/HARSH-KUMAR10/dapp-energy-client),
+  [back-end-code](https://github.com/HARSH-KUMAR10/dapp-energy-server),
+  [live-website](https://energy-share-dapps.netlify.app/)
 </div>
