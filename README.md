@@ -28,7 +28,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 ## Tech Stack
 ### **Web**
 **Client:** ReactJS, Bootstrap.
-**  |  Server:** Node, Express
+  |  **Server:** Node, Express
 **  |  Database:** MongoDB
 
 ### **Mobile**
