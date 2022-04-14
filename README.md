@@ -21,6 +21,7 @@ Provide Future decisions based on models created using Machine learning.
 
 I also create smart and interactive applications using Artificial Intelligence.
 
+<hr/>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-FFF?style=for-the-badge&logo=ko-fi&logoColor=black)](https://harshkumar-portfolio.herokuapp.com/)
@@ -60,6 +61,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 [![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 
+<hr/>
 
 # Eperience
 
@@ -85,6 +87,8 @@ I also create smart and interactive applications using Artificial Intelligence.
   3) Is basic healthcare facilities available in their village
   and many more
 [link](https://www.facebook.com/thekarmafoundation/posts/right-to-cleanliness-with-karma-foundation-is-fortunate-to-introduce-you-to-the-/1815738791936415/)
+
+<hr/>
 
 # Projects
 
