@@ -28,17 +28,30 @@ I also create smart and interactive applications using Artificial Intelligence.
 
 ## Tech Stack
 ### **Web**
-**Client:** ReactJS, Bootstrap.
-  |  **Server:** Node, Express
-  |  **Database:** MongoDB
+
+[![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### **Mobile**
-**Client:** React-Native, Andriod Studio
-  |  **Server:** Node, Express
-  |  **Database:** MongoDB
+
+[![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+[![android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://docs.microsoft.com/en-us/windows/dev-environment/javascript/react-native-for-android#:~:text=on%20Android%20devices.-,Overview,an%20understanding%20of%20JavaScript%20fundamentals.)
+
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![expressjs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 ### **Machine Learning & Artificial Intelligence**
-**Language:** Python, Node
+
+[![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+[![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
 
 
 ## Other Common Github Profile Sections
