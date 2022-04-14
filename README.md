@@ -18,7 +18,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://harshkumar-portfolio.herokuapp.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-FFF?style=for-the-badge&logo=ko-fi&logoColor=black)](https://harshkumar-portfolio.herokuapp.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-kumar-48a851196/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/javascriptextreme/)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCV0FcHjaMSBt8rMfOwEFNgQ)
