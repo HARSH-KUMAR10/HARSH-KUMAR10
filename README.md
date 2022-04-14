@@ -39,11 +39,6 @@ I also create smart and interactive applications using Artificial Intelligence.
 
 [![reactnative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
 [![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-
-[![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
-[![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 
@@ -66,6 +61,30 @@ I also create smart and interactive applications using Artificial Intelligence.
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
 
 
+## Eperience
+
+## Internship : Arctic Devs (Full Stack Web Developer Intern)
+* Date : Jan 2022 - Apr 2022
+
+
+
+### Internship : Esparkbiz (Web Developer Intern)
+* Date : May 2021 - July 2021
+* Worked on an human resources management system.
+* Learned about **SDLC**, **multi-tier application**, **Web Development** & **Mobile Development**.
+* [HRMS](https://github.com/HARSH-KUMAR10/esparkbiz-job-application-form)
+
+
+### Societal internship : Karma Foundation
+#### Topic Right to Cleanliness
+* Date : June 2020 - July 2020
+* Surveyed more than 50 villages, and collected 600+ records for the use of sanitary pads in the villages
+* Some of the questions : 
+  1) Do girls/women clear their primary schooling in their village or not.
+  2) Does the nearby muncipal corporation or governing body takes care of the cleanliness.
+  3) Is basic healthcare facilities available in their village
+  and many more
+[link](https://www.facebook.com/thekarmafoundation/posts/right-to-cleanliness-with-karma-foundation-is-fortunate-to-introduce-you-to-the-/1815738791936415/)
 
 ## Projects
 
