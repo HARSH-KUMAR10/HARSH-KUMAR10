@@ -67,7 +67,14 @@ I also create smart and interactive applications using Artificial Intelligence.
 
 ### Internship : Arctic Devs (Full Stack Web Developer Intern)
 * Date : Jan 2022 - Apr 2022
-
+#### Print-tribe : webiste to get printed clothes
+* Worked on the front-end part of the website which included <b>React, React Routers, Third-party(Zakeke) API Integration</b>.
+* Created multiple pages for the website including the home-page, product-page, cart-page, privacy-policy, terms-page, returnrefund-page.
+* [live]() [github](https://github.com/ArcticDevs/Printribe)
+#### A2Z : Intelligent Hiring Platform
+* Worked primaryly on backend for A2Z using <b>NodeJS (Express)</b>, with database as <b>mongoose (MongoDB Atlas)</b>.
+* Integrated <b>google authorisation</b> sign-in and login, resume-uploader.
+* Added multiple payment gateways like <b>Paytm, Razorpay, Paypal, and braintree</b>.
 
 
 ### Internship : Esparkbiz (Web Developer Intern)
