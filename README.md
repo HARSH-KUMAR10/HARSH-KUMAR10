@@ -85,6 +85,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 * Minor changes on frontend code to align with the backend.
 * [live]() , [github-backend](https://github.com/ArcticDevs/a2zbackend) , [github-frontend](https://github.com/ArcticDevs/A2ZHiring)
 ##### Material Project
+* Worked on the front-end of this project with <b>ReactJS, Bootstrap and TypeScript</b>
 
 ### Internship : Esparkbiz (Web Developer Intern)
 * Date : May 2021 - July 2021
