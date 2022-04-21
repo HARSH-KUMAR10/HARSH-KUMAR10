@@ -86,6 +86,7 @@ I also create smart and interactive applications using Artificial Intelligence.
 * [live]() , [github-backend](https://github.com/ArcticDevs/a2zbackend) , [github-frontend](https://github.com/ArcticDevs/A2ZHiring)
 ##### Material Project
 * Worked on the front-end of this project with <b>ReactJS, Bootstrap and TypeScript</b>
+* [github-frontend](https://github.com/HARSH-KUMAR10/price-admin-frontend)
 
 ### Internship : Esparkbiz (Web Developer Intern)
 * Date : May 2021 - July 2021
