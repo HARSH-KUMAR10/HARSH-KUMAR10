@@ -63,19 +63,28 @@ I also create smart and interactive applications using Artificial Intelligence.
 
 <hr/>
 
-# Eperience
+# Experience
 
 ### Internship : Arctic Devs (Full Stack Web Developer Intern)
 * Date : Jan 2022 - Apr 2022
-#### Print-tribe : webiste to get printed clothes
+##### Print-tribe : webiste to get printed clothes
+* A website used for custom-made clothings, that allows you to add texts and logos on t-shirt and buy them on reasonable prices.
 * Worked on the front-end part of the website which included <b>React, React Routers, Third-party(Zakeke) API Integration</b>.
 * Created multiple pages for the website including the home-page, product-page, cart-page, privacy-policy, terms-page, returnrefund-page.
-* [live]() [github](https://github.com/ArcticDevs/Printribe)
-#### A2Z : Intelligent Hiring Platform
+* [live]() , [github](https://github.com/ArcticDevs/Printribe)
+##### A2Z : Intelligent Hiring Platform
+* A hiring platform where:- 
+ i) A candidate will be able to add his details. 
+ ii) A hiring manager will able to see multiple candidates profiles.
+ iii) Hiring Manager will be able to assign SME (Subject Matter Expert) to have an interview with the candidate.
+ iv) SME will give feedback of the interview, which will be available to the hiring managers.
 * Worked primaryly on backend for A2Z using <b>NodeJS (Express)</b>, with database as <b>mongoose (MongoDB Atlas)</b>.
+* Integrated resume-parser api, npl resume-summary API, video-summary API.
 * Integrated <b>google authorisation</b> sign-in and login, resume-uploader.
 * Added multiple payment gateways like <b>Paytm, Razorpay, Paypal, and braintree</b>.
-
+* Minor changes on frontend code to align with the backend.
+* [live]() , [github-backend](https://github.com/ArcticDevs/a2zbackend) , [github-frontend](https://github.com/ArcticDevs/A2ZHiring)
+##### Material Project
 
 ### Internship : Esparkbiz (Web Developer Intern)
 * Date : May 2021 - July 2021
