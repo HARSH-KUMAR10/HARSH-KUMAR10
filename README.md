@@ -74,10 +74,10 @@ I also create smart and interactive applications using Artificial Intelligence.
 * [live]() , [github](https://github.com/ArcticDevs/Printribe)
 ##### A2Z : Intelligent Hiring Platform
 * A hiring platform where:- 
- i) A candidate will be able to add his details. 
- ii) A hiring manager will able to see multiple candidates profiles.
- iii) Hiring Manager will be able to assign SME (Subject Matter Expert) to have an interview with the candidate.
- iv) SME will give feedback of the interview, which will be available to the hiring managers.
+ 1) A candidate will be able to add his details. 
+ 2) A hiring manager will able to see multiple candidates profiles.
+ 3) Hiring Manager will be able to assign SME (Subject Matter Expert) to have an interview with the candidate.
+ 4) SME will give feedback of the interview, which will be available to the hiring managers.
 * Worked primaryly on backend for A2Z using <b>NodeJS (Express)</b>, with database as <b>mongoose (MongoDB Atlas)</b>.
 * Integrated resume-parser api, npl resume-summary API, video-summary API.
 * Integrated <b>google authorisation</b> sign-in and login, resume-uploader.
